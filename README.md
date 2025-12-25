@@ -53,20 +53,6 @@ I'm an aspiring software engineer passionate about building scalable web applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladd-1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladd-1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=vladd-1&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🏅 **Certificate of Olympiad** on Mathematics and Statistics
@@ -111,16 +97,6 @@ Multi-level referral network system with unique referral codes, user onboarding 
 
 ### 🎥 Automated Video Captioning Platform
 Web application enabling users to upload MP4 videos, generate accurate captions via speech-to-text AI, and auto-render subtitles using Remotion.
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vladd-1&theme=radical&hide_border=true&bg_color=0D1117&color=6366f1&line=8b5cf6&point=ec4899)
-
-</div>
 
 ---
 
