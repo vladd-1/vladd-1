@@ -17,7 +17,7 @@
 
 I'm an aspiring software engineer passionate about building scalable web applications and innovative solutions. I love working with modern technologies and turning ideas into reality through code.
 
-- 💼 Worked as a **Software Developer Intern** at Think and Wash from Oct 2024 to Mar 2025
+- 💼 Worked as a **Software Developer Intern** at Think and Wash from **Oct 2024** to **Mar 2025**
 - 🎓 **BE in Computer Science & Engineering** from Chandigarh University (Completed June 2025)
 - 📚 Always learning new technologies and best practices
 - 🎯 Focused on **Full-Stack Development** and **Cloud Computing**
