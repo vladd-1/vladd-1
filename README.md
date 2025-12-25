@@ -18,7 +18,7 @@
 I'm an aspiring software engineer passionate about building scalable web applications and innovative solutions. I love working with modern technologies and turning ideas into reality through code.
 
 - 💼 Currently working as a **Software Developer** at Think and Wash
-- 🎓 Pursuing **BE in Computer Science & Engineering** at Chandigarh University
+- 🎓 **BE in Computer Science & Engineering** from Chandigarh University (Completed June 2025)
 - 📚 Always learning new technologies and best practices
 - 🎯 Focused on **Full-Stack Development** and **Cloud Computing**
 
@@ -92,7 +92,7 @@ I'm an aspiring software engineer passionate about building scalable web applica
 
 ## 🎓 Education
 
-- **BE (Computer Science & Engineering)** - Chandigarh University, Gharuan *(2021 - 2025)*
+- **BE (Computer Science & Engineering)** - Chandigarh University, Gharuan *(2021 - June 2025)* ✅
 - **Foundation Certificate** - IIT Madras *(2021 - 2023)*
 - **Intermediate (Class XII)** - SJS Public School, Gauriganj *(2019 - 2020)*
 - **Matriculation (Class X)** - SJS Public School, Gauriganj *(2017 - 2018)*
