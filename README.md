@@ -118,7 +118,5 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 
 **⭐ Star my repositories if you find them interesting!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vladd-1.vladd-1&left_color=6366f1&right_color=8b5cf6)
-
 </div>
 
