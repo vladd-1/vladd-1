@@ -87,12 +87,12 @@ I'm an aspiring software engineer passionate about building scalable web applica
 
 ## 🎓 Education
 
-- **BE (Computer Science & Engineering)** - Chandigarh University, Gharuan *(2021 - June 2025)* ✅
+- **BE (Computer Science & Engineering)** - Chandigarh University, Gharuan *(2021 - June 2025)* 
 - **Foundation Certificate** - IIT Madras *(2021 - 2023)*
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🎮 TIC-TAC-TOE-NAKAMA
 Interactive Tic-Tac-Toe game with full game logic and responsive design, deployed using AWS and Vercel.
@@ -124,7 +124,7 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 
 <div align="center">
 
-### 💡 "I am a programmer and I prefer not to repeat the same line of code again in a program!"
+### "I am a programmer, and I follow the DRY (Don’t Repeat Yourself) principle."
 
 **⭐ Star my repositories if you find them interesting!**
 
