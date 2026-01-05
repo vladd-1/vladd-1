@@ -97,7 +97,7 @@ I'm an aspiring software engineer passionate about building scalable web applica
 ### 🎮 TIC-TAC-TOE-NAKAMA
 Interactive Tic-Tac-Toe game with full game logic and responsive design, deployed using AWS and Vercel.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-frontend-1-eim0lts3v-project-remotions-projects.vercel.app/)
+- [Live Demo](https://tic-tac-toe-frontend-1-eim0lts3v-project-remotions-projects.vercel.app/)
 
 ### 🔗 Referral Network System
 Multi-level referral network system with unique referral codes, user onboarding tracking, and reward computation.
@@ -124,7 +124,7 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad."
+### 💡 "I am a programmer and I prefer not to repeat the same line of code again in a program!"
 
 **⭐ Star my repositories if you find them interesting!**
 
