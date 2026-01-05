@@ -8,6 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vladd-1.github.io/my_portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaytiwari190703@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vladd-1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhaytiwari19071)
 
 </div>
 
@@ -106,6 +107,7 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vladd-1.github.io/my_portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tiwari-b75952200/)
+[![HackerRank](https://img.shields.io/badge/💻_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abhaytiwari19071)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaytiwari190703@gmail.com)
 
 </div>
