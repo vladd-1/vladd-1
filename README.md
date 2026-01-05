@@ -89,8 +89,6 @@ I'm an aspiring software engineer passionate about building scalable web applica
 
 - **BE (Computer Science & Engineering)** - Chandigarh University, Gharuan *(2021 - June 2025)* ✅
 - **Foundation Certificate** - IIT Madras *(2021 - 2023)*
-- **Intermediate (Class XII)** - SJS Public School, Gauriganj *(2019 - 2020)*
-- **Matriculation (Class X)** - SJS Public School, Gauriganj *(2017 - 2018)*
 
 ---
 
@@ -103,10 +101,11 @@ Interactive Tic-Tac-Toe game with full game logic and responsive design, deploye
 
 ### 🔗 Referral Network System
 Multi-level referral network system with unique referral codes, user onboarding tracking, and reward computation.
-[Link](https://github.com/vladd-1/Referral_Network_System)
+- [Link](https://github.com/vladd-1/Referral_Network_System)
 
 ### 🎥 Automated Video Captioning Platform
 Web application enabling users to upload MP4 videos, generate accurate captions via speech-to-text AI, and auto-render subtitles using Remotion.
+- [Link](https://github.com/vladd-1/project_remotion)
 
 ---
 
