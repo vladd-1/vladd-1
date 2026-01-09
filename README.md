@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring software engineer passionate about building scalable web applications and innovative solutions. I love working with modern technologies and turning ideas into reality through code.
+Backend Software Engineer with experience building and deploying scalable web applications and RESTful APIs using Java, Python, Spring Boot, Django, and Flask. Strong foundation in data structures, system design, database modeling, and cloud deployment(AWS, Docker), with experience delivering production-ready backend systems in Agile environments.
 
 - 💼 Worked as a **Software Developer Intern** at Think and Wash from **Oct 2024** to **Mar 2025**
 - 🎓 **BE in Computer Science & Engineering** from Chandigarh University (Completed June 2025)
