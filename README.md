@@ -125,6 +125,7 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 <div align="center">
 
 ### "I am a programmer, and I follow the DRY (Don’t Repeat Yourself) principle."
+### "A technological decathlete with hands-on experience across backend systems, cloud infrastructure, data pipelines, and API design—able to own features end-to-end."
 
 **⭐ Star my repositories if you find them interesting!**
 
