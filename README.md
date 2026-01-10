@@ -114,13 +114,48 @@ Production-ready microservices platform for AI-powered friend recommendations us
 - ⚡ Redis caching with RabbitMQ event-driven invalidation
 - �� Fully containerized microservices architecture
 
+---
+
 ### 🔗 Referral Network System
-Multi-level referral network system with unique referral codes, user onboarding tracking, and reward computation.
-- [Link](https://github.com/vladd-1/Referral_Network_System)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](https://jestjs.io/)
+
+Multi-level referral tracking system with graph-based network analysis for viral growth campaigns.
+
+**Tech Stack:** JavaScript • Node.js • Graph Algorithms • BFS/DFS
+
+🔗 [View Repository](https://github.com/vladd-1/Referral_Network_System)
+
+**Key Features:**
+- 📊 Directed Acyclic Graph (DAG) for referral chains
+- 🔄 Cycle detection to prevent fraud
+- 🎯 Influencer identification and ranking
+- 💰 Multi-level reward computation
+- 🧪 Comprehensive test suite with Jest
+
+---
 
 ### 🎥 Automated Video Captioning Platform
-Web application enabling users to upload MP4 videos, generate accurate captions via speech-to-text AI, and auto-render subtitles using Remotion.
-- [Link](https://github.com/vladd-1/project_remotion)
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![Remotion](https://img.shields.io/badge/Remotion-FF6154?style=flat)](https://www.remotion.dev/)
+
+AI-powered video subtitle generator with automatic transcription and programmatic video rendering.
+
+**Tech Stack:** Next.js • TypeScript • OpenAI Whisper • AssemblyAI • Remotion • ffmpeg
+
+🔗 [View Repository](https://github.com/vladd-1/project_remotion)
+
+**Key Features:**
+- �� Dual AI transcription (OpenAI Whisper & AssemblyAI)
+- ✍️ Manual caption editing with timestamp control
+- 🎨 3 caption styles: Bottom, Top Bar, Karaoke
+- 📹 Programmatic video composition with Remotion
+- ⚡ Real-time preview and export
 
 ---
 
