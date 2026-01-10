@@ -94,10 +94,25 @@ Backend Software Engineer with experience building and deploying scalable web ap
 
 ##  Featured Projects
 
-### 🎮 TIC-TAC-TOE-NAKAMA
-Interactive Tic-Tac-Toe game with full game logic and responsive design, deployed using AWS and Vercel.
+### 🌐 Distributed Social Graph Recommendation Engine
 
-- [Live Demo](https://tic-tac-toe-frontend-1-eim0lts3v-project-remotions-projects.vercel.app/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green.svg)](https://fastapi.tiangolo.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-5.16-orange.svg)](https://neo4j.com/)
+[![Docker](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://www.docker.com/)
+
+Production-ready microservices platform for AI-powered friend recommendations using graph algorithms, collaborative filtering, and real-time visualization.
+
+**Tech Stack:** Python • FastAPI • Neo4j • Redis • RabbitMQ • React • Docker
+
+🔗 [View Repository](https://github.com/vladd-1/Distributed_Social_Graph_Recommendation_Engine)
+
+**Key Features:**
+- 🤖 4 AI recommendation algorithms (Graph-Based, Content-Based, Collaborative, Hybrid)
+- 🕸️ Interactive social graph visualization with Vis.js
+- 🔍 Real-time user search functionality
+- ⚡ Redis caching with RabbitMQ event-driven invalidation
+- �� Fully containerized microservices architecture
 
 ### 🔗 Referral Network System
 Multi-level referral network system with unique referral codes, user onboarding tracking, and reward computation.
@@ -124,10 +139,9 @@ Web application enabling users to upload MP4 videos, generate accurate captions 
 
 <div align="center">
 
-### "I am a programmer, and I follow the DRY (Don’t Repeat Yourself) principle."
+### "I am a programmer, and I follow the DRY (Don't Repeat Yourself) principle."
 ### "A technological decathlete with hands-on experience across backend systems, cloud infrastructure, data pipelines, and API design—able to own features end-to-end."
 
 **⭐ Star my repositories if you find them interesting!**
 
 </div>
-
