@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abhay Tiwari
 
-### Software Developer & Aspiring Engineer
+### Software Engineer @ SuperMoney (Flipkart Group)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tiwari-b75952200/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vladd-1.github.io/my_portfolio/)
@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-Backend Software Engineer with experience building and deploying scalable web applications and RESTful APIs using Java, Python, Spring Boot, Django, and Flask. Strong foundation in data structures, system design, database modeling, and cloud deployment(AWS, Docker), with experience delivering production-ready backend systems in Agile environments.
+Software engineer at **SuperMoney (Flipkart Group)**, working on fraud & risk, subscriptions, and pricing systems. Background in building and deploying scalable web applications and RESTful APIs using Java, Python, Spring Boot, Django, and Flask, with a strong foundation in data structures, system design, database modeling, and cloud deployment (AWS, Docker).
 
-- 💼 Worked as a **Software Developer Intern** at Think and Wash from **Oct 2024** to **Mar 2025**
+- 💼 **Software Engineer** at SuperMoney (Flipkart Group) — since Jan 2026
+- 🛡️ Building on **Fraud & Risk Management**, **Subscriptions**, and **Pricing Engine**
 - 🎓 **BE in Computer Science & Engineering** from Chandigarh University (Completed June 2025)
-- 📚 Always learning new technologies and best practices
-- 🎯 Focused on **Full-Stack Development** and **Cloud Computing**
+- 🎯 Focused on backend systems, data, and cloud-native services
 
 ---
 
@@ -32,6 +32,7 @@ Backend Software Engineer with experience building and deploying scalable web ap
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -42,11 +43,15 @@ Backend Software Engineer with experience building and deploying scalable web ap
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases
+### Databases & Data
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Google Spanner](https://img.shields.io/badge/Google_Spanner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Cloud
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,22 +71,30 @@ Backend Software Engineer with experience building and deploying scalable web ap
 ---
 
 ## 💼 Experience
-**Software Engineering Job Simulation** @ JPMorgan Chase on Forage
 
+**Software Engineer** @ SuperMoney (Flipkart Group)  
+*Jan 2026 – Present*
+
+- Worked on **Fraud & Risk Management**, **Subscriptions**, and **Pricing Engine** services
+- Built and operated systems using **Redis**, **Cloud Spanner**, **BigQuery**, **SQL**, and **Kubernetes**
+- Led a **database migration** across production services
+- Optimized a hot path from **~80ms to ~5ms** by cutting database calls and adding caching
+
+**Software Developer Intern** @ Think and Wash, Mohali  
+*Oct 2024 – Mar 2025*
+
+- Developed and deployed scalable web applications using Python (Django, Flask) and Java
+- Collaborated in Agile development cycles
+- Designed and integrated RESTful APIs and database systems
+- Implemented cloud-based and machine learning solutions
+
+**Software Engineering Job Simulation** @ JPMorgan Chase on Forage
 
 - Integrated Kafka into a Spring Boot microservice to consume and deserialize high-volume transaction messages using a configurable topic and embedded Kafka test framework.
 - Implemented transaction validation and persistence logic with Spring Data JPA and an H2 SQL database, including entity modeling and balance updates across relational User records.
 - Connected the service to an external REST Incentive API using RestTemplate, processing incentive responses and incorporating them into transactional workflows.
 - Developed a REST endpoint for querying user balances, returning JSON responses through a Spring controller while maintaining clean architectural boundaries.
 - Verified system behavior using Maven test suites and debugger-driven inspection, ensuring reliability across message ingestion, database operations, and external API interactions.
-
-**Software Developer** @ Think and Wash, Mohali  
-*Oct 2024 - Mar 2025*
-
-- Developed and deployed scalable web applications using Python (Django, Flask) and Java
-- Collaborated in Agile development cycles
-- Designed and integrated RESTful APIs and database systems
-- Implemented cloud-based and machine learning solutions
 
 ---
 
